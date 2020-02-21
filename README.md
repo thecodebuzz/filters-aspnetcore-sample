@@ -1,4 +1,4 @@
-# filter aspnet core-sample
+# Filter ASP.NET core-sample
 Adress cross cutting concerns using Filters and ExceptionFilters 
 
 # Filters in ASP.NET Core
